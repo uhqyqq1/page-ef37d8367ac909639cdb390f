@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-09c9d28110.wabuj.cn/sitemap.xml
